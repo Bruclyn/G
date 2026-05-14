@@ -1,0 +1,5 @@
+body { margin:0; font-family: Inter, sans-serif; background:#0a0f1f; color:#d6e2ff; }
+.terminal { padding: 20px; }
+.grid { display:grid; grid-template-columns: repeat(2,minmax(300px,1fr)); gap:16px; }
+section { background:#141b2d; border:1px solid #2d3a5f; border-radius:8px; padding:14px; }
+button,select { margin-right:8px; background:#2451ff; color:#fff; border:none; padding:8px 10px; border-radius:6px; }
